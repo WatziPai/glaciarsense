@@ -1,0 +1,20 @@
+# Dependencias principales (probadas con Python 3.10 - 3.12)
+# Instalación: pip install -r requirements.txt
+streamlit>=1.50,<2
+opencv-python-headless>=4.8,<5
+geopandas>=1.0,<2
+shapely>=2.0,<3
+pyproj>=3.6,<4
+folium>=0.17,<1
+streamlit-folium>=0.22,<1
+plotly>=5.18,<8
+numpy>=1.26,<3
+pandas>=2.1,<4
+pillow>=10,<13
+fpdf2>=2.8,<3
+pytest>=8.0,<10
+matplotlib>=3.7,<4
+
+# OPCIONALES (no se instalan por defecto):
+#   - YOLOv8:  pip install -r requirements-yolo.txt   (descarga PyTorch, ~1-2 GB)
+#   - ArcGIS:  conda install -c esri arcgis            (muy pesado; la app NO lo necesita)

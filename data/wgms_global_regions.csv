@@ -1,0 +1,8 @@
+region,area_1970_km2,area_actual_km2,perdida_pct,tasa_anual_pct,balance_masa_m_we_yr,glaciares_monitoreados,fuente,licencia,tipo_dato
+"Andes Tropicales (Perú, Bolivia, Ecuador, Colombia)",2400.0,1280.0,-46.7,-1.05,-0.85,45,WGMS / Rabatel et al. (The Cryosphere 2013) / INAIGEM (2023),CC BY 4.0,Dato real oficial
+"Andes del Sur y Patagonia (Chile, Argentina)",32500.0,26800.0,-17.5,-0.38,-0.72,120,WGMS FoG 2023 / Dussaillant et al. (Nature Geo 2019),CC BY 4.0,Dato real oficial
+Alpes Europeos,3800.0,1820.0,-52.1,-1.2,-1.05,180,WGMS FoG 2023 / GLAMOS,CC BY 4.0,Dato real oficial
+Alta Montaña de Asia (Himalaya / Tíbet / Karakóram),105000.0,91200.0,-13.1,-0.28,-0.42,310,WGMS / Shean et al. (Frontiers Earth Sci 2020),CC BY 4.0,Dato real oficial
+Montañas Rocosas y Cascadas (Norteamérica),15200.0,9950.0,-34.5,-0.76,-0.68,95,WGMS FoG 2023 / USGS Benchmark Glaciers,CC BY 4.0,Dato real oficial
+Cáucaso y Medio Oriente,1850.0,1180.0,-36.2,-0.8,-0.65,40,WGMS FoG 2023 / Tielidze et al.,CC BY 4.0,Dato real oficial
+Escandinavia e Islandia,14200.0,12100.0,-14.8,-0.32,-0.55,75,WGMS / NVE Noruega / IMO Islandia,CC BY 4.0,Dato real oficial

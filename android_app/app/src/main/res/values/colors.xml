@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2A9D8F</color>
+    <color name="primary_dark">#1F7268</color>
+    <color name="accent">#E76F51</color>
+    <color name="background">#12161A</color>
+    <color name="surface">#1C2228</color>
+    <color name="surface_variant">#28313A</color>
+    <color name="text_primary">#F1FAEE</color>
+    <color name="text_secondary">#A8DADC</color>
+
+    <!-- Glacier Classes -->
+    <color name="cls_clean_ice">#00E5FF</color>
+    <color name="cls_black_carbon">#2B2B2B</color>
+    <color name="cls_dust">#DDA15E</color>
+    <color name="cls_meltwater">#1D3557</color>
+    <color name="cls_bioalbedo">#FF00FF</color>
+    <color name="cls_crevasse">#FFD60A</color>
+</resources>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlaciarSense</string>
+    <string name="toolbar_subtitle">En línea</string>
+    <string name="menu_reload">Recargar</string>
+    <string name="menu_browser">Abrir en navegador</string>
+    <string name="menu_server">Servidor…</string>
+    <string name="error_title">Sin conexión con GlaciarSense</string>
+    <string name="error_no_internet">No hay conexión a internet. Revisa tus datos móviles o Wi-Fi.</string>
+    <string name="error_server">No se pudo cargar el servidor:\n%1$s</string>
+    <string name="retry">Reintentar</string>
+    <string name="change_server">Cambiar servidor</string>
+    <string name="server_title">Dirección del servidor</string>
+    <string name="server_hint">https://tu-app.streamlit.app</string>
+    <string name="server_help">URL donde está publicada la app web de GlaciarSense (Streamlit Cloud, Render, o tu PC en la red local, p. ej. http://192.168.1.16:8501).</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="restore_default">Predeterminado</string>
+    <string name="pick_image">Elegir imagen</string>
+    <string name="downloading">Descargando %1$s…</string>
+    <string name="saved_to_downloads">Guardado en Descargas: %1$s</string>
+    <string name="download_failed">No se pudo descargar el archivo</string>
+    <string name="storage_permission_needed">Se necesita permiso de almacenamiento para guardar descargas</string>
+    <string name="invalid_url">URL no válida</string>
+</resources>

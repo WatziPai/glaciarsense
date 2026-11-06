@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+=3.7
+
+# Android (builds y configuración local)
+*.apk
+android_app/.gradle/
+android_app/build/
+android_app/app/build/
+android_app/local.properties
+android_online/.gradle/
+android_online/build/
+android_online/app/build/
+android_online/local.properties
+.idea/
+*.iml
+
+# Streamlit secrets
+.streamlit/secrets.toml

@@ -1,0 +1,9 @@
+Coloca aquí tus pesos de YOLOv8 con el nombre exacto:  best.pt
+
+Requisitos:
+  - Modelo de SEGMENTACIÓN (yolov8n-seg) entrenado con las clases:
+        black_carbon, dust, meltwater_pool
+    (clean_ice se calcula como el resto de la imagen)
+  - pip install -r requirements-yolo.txt
+
+Si este archivo no existe, la app usa la estimación por color (OpenCV).

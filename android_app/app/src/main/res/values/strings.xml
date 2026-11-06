@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GlaciarSense</string>
+    <string name="tab_analysis">Análisis</string>
+    <string name="tab_metrics">Métricas</string>
+    <string name="tab_lifespan">Proyecciones</string>
+    <string name="tab_station">Estación GPS</string>
+
+    <string name="btn_camera">Tomar Foto</string>
+    <string name="btn_gallery">Abrir Galería</string>
+    <string name="btn_analyze">Procesar Imagen</string>
+    <string name="btn_share">Compartir Informe</string>
+
+    <string name="label_clean_ice">Hielo Limpio</string>
+    <string name="label_black_carbon">Carbono Negro</string>
+    <string name="label_mineral_dust">Polvo Mineral</string>
+    <string name="label_meltwater">Agua de Deshielo</string>
+
+    <string name="sensitivity_title">Sensibilidad de Detección</string>
+    <string name="sens_carbon">Carbono Negro: %1$.1fx</string>
+    <string name="sens_dust">Polvo Mineral: %1$.1fx</string>
+    <string name="sens_water">Agua de Deshielo: %1$.1fx</string>
+</resources>
+
