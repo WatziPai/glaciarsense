@@ -7,7 +7,7 @@ plugins {
 // URL pública donde está publicada GlaciarSense (Streamlit).
 // Cámbiala aquí antes de compilar, o desde la app: menú ⋮ > "Servidor".
 // ─────────────────────────────────────────────────────────────
-val glaciarSenseUrl = "https://glaciarsense.streamlit.app"
+val glaciarSenseUrl = "https://glaciar-sense.streamlit.app"
 
 android {
     namespace = "com.glaciarsense.online"

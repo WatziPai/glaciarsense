@@ -25,7 +25,7 @@ La app Android necesita que GlaciarSense esté publicada en una URL pública. Lo
    `sample_images/`, `.streamlit/` y `requirements.txt`). No hace falta subir `android_app/` ni `android_online/`.
 2. Entra a <https://share.streamlit.io>, inicia sesión con GitHub y pulsa **Create app**.
 3. Elige el repositorio, rama `main` y archivo principal `app.py`. En *Advanced settings* elige Python 3.12.
-4. En *App URL* escribe, por ejemplo, `glaciarsense` → quedará `https://glaciarsense.streamlit.app`.
+4. En *App URL* escribe, por ejemplo, `glaciar-sense` → quedará `https://glaciar-sense.streamlit.app`.
 5. Pulsa **Deploy** y espera a que instale las dependencias (unos minutos la primera vez).
 
 > Las apps gratuitas de Streamlit Cloud "se duermen" tras días sin uso; al abrirlas aparece un botón
@@ -39,7 +39,7 @@ misma Wi-Fi: `http://192.168.1.16:8501` (configúralo desde el menú **Servidor�
 Edita `app/build.gradle.kts`:
 
 ```kotlin
-val glaciarSenseUrl = "https://glaciarsense.streamlit.app"
+val glaciarSenseUrl = "https://glaciar-sense.streamlit.app"
 ```
 
 (Si no la cambias, puedes escribirla después desde el menú ⋮ → **Servidor…** dentro de la app.)
